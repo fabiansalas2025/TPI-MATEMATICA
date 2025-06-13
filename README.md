@@ -16,11 +16,11 @@ Este repositorio fue creado para el TRABAJO INTEGRADOR de **MATEMATICA**.
 
 > ⚠️ **INTEGRANTES DEL GRUPO 5 COMISION 21:**
 > 
->        -Salas Fabián Alejandro,
+>        - Salas Fabián Alejandro,
 > 
->        -Santarelli Yoel,
+>        - Santarelli Yoel,
 > 
->        -Salvatierra Ezequiel,
+>        - Salvatierra Ezequiel,
 > 
->        -Ruff Luca**
+>        - Ruff Luca
 > 
