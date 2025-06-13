@@ -10,7 +10,7 @@
 Este repositorio fue creado para el TRABAJO INTEGRADOR de **MATEMATICA**.  
 
 📌 **Componen todos los elementos del trabajo integrador:**  
-- Cada trabajo está organizado en carpetas individuales.  
+- Se encuentran en este repositorio archivos (.py), (.txt), (.doc) y (.pdf).  
 - Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
 
