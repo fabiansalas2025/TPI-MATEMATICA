@@ -6,10 +6,16 @@
 
 
 
-## ✨ Estudiante  
-- **Nombre:** Salas, Fabián Alejandro  
-- **Comisión:** M2025-1  
-
+> ⚠️ **INTEGRANTES DEL GRUPO 5 COMISION 21:**
+> 
+>        - Salas Fabián Alejandro,
+> 
+>        - Santarelli Yoel,
+> 
+>        - Salvatierra Ezequiel,
+> 
+>        - Ruff Luca 
+-
 ## 📂 Descripción del Repositorio  
 Este repositorio fue creado para el TRABAJO INTEGRADOR de **MATEMATICA**.  
 
