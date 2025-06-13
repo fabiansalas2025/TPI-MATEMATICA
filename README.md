@@ -15,8 +15,12 @@ Este repositorio fue creado para el TRABAJO INTEGRADOR de **MATEMATICA**.
 - Se busca mantener un código limpio, ordenado y bien documentado.  
 
 > ⚠️ **INTEGRANTES DEL GRUPO 5 COMISION 21:**
+> 
 >        **Salas Fabián Alejandro, **
+> 
 >        **Santarelli Yoel, **
+> 
 >        **Salvatierra Ezequiel, **
+> 
 >        **Ruff Luca**
 > 
