@@ -8,13 +8,17 @@
 
 > ⚠️ **INTEGRANTES DEL GRUPO 5 COMISION 21:**
 > 
+>        - Ruff Luca,
+>
 >        - Salas Fabián Alejandro,
 > 
+>        - Salvatierra Ezequiel,
+>  
 >        - Santarelli Yoel,
 > 
->        - Salvatierra Ezequiel,
-> 
->        - Ruff Luca 
+>       
+>  
+>        
 -
 ## 📂 Descripción del Repositorio  
 Este repositorio fue creado para el TRABAJO INTEGRADOR de **MATEMATICA**.  
